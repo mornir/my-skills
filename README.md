@@ -1,1 +1,1 @@
-# My path for becoming a frontend web de
+# My path for becoming a frontend web developer
