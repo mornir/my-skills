@@ -44,6 +44,9 @@
 ### Testing
 - TO DO
 
+### Other
+- Markdowns
+
 ## Technologies I am not interested in or don't have the time to learn
 - Server-side languages (PHP, Ruby, Python, etc.)
 - Desktop apps (Electron, NW.sj)
@@ -53,6 +56,7 @@
 - Supporting web browsers older than IE11
 - Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
+- TypeScript, Flow, etc.
 
 
 ## Current skill set
