@@ -30,6 +30,13 @@
 - Figma
 - SVG (create, edit and animate)
 
+### Tooling
+- webpack
+- Babel
+- Visual Studio Code
+- ESLint & Prettier
+- Git & GitHub
+
 ### Testing
 - TO DO
 
@@ -38,6 +45,10 @@
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (React, Angular, etc.)
+- jQuery
+- Supporting web browsers older than IE11
+- Building games with HTML/CSS & JavaScript (using canvas)
+- Gulp, Grunt, Rollup, Parcel, etc.
 
 
 ## Current skill set
