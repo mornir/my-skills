@@ -58,6 +58,7 @@
 - Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
 - TypeScript, Flow, etc.
+- Tempating languages (pug, blade, handlebars, etc.)
 
 
 ## Current skill set
