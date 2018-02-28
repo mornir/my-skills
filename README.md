@@ -3,7 +3,7 @@
 ## Technologies I am interested in
 
 ### HTML/CSS
-- CSS Layout (CSS Grid / flexbox)
+- CSS Layout (CSS Grid / Flexbox)
 - CSS animations and transitions
 
 ### JavaScript
