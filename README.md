@@ -1,6 +1,6 @@
 # My path for becoming a frontend web developer
 
-## Technologies I am interested in
+## Topics I am interested in
 
 ### HTML/CSS
 - CSS Layout (CSS Grid / Flexbox)
@@ -32,7 +32,7 @@
 - SVG (create, edit and animate)
 
 ### Tooling
-- webpack
+- Webpack
 - Babel
 - Visual Studio Code
 - ESLint & Prettier
@@ -47,8 +47,9 @@
 
 ### Other
 - Markdowns
+- Security
 
-## Technologies I am not interested in or don't have the time to learn
+## Topics I am not interested in or don't have the time to learn
 - Server-side languages (PHP, Ruby, Python, etc.)
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
