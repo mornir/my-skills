@@ -37,6 +37,10 @@
 - ESLint & Prettier
 - Git & GitHub
 
+### Headless CMS
+- Story Book?
+- GraphCMS?
+
 ### Testing
 - TO DO
 
@@ -44,8 +48,8 @@
 - Server-side languages (PHP, Ruby, Python, etc.)
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
-- Other JS frameworks (React, Angular, etc.)
-- jQuery
+- Other JS frameworks (Aurelia, Angular, etc.)
+- JS libraries (React, jQuery)
 - Supporting web browsers older than IE11
 - Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
