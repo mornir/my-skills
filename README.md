@@ -22,6 +22,7 @@
 
 ### Server
 - Node.js
+- Express.js
 - Firebase
 - Web Scraping with Puppeteer
 - GraphQL
