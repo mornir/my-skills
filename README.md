@@ -8,8 +8,10 @@
 
 ### JavaScript
 - ES.Next
-- Vue.js
-- SSR (Nuxt.js, Gatsby)
+- Vue
+- Nuxt
+- React
+- Gatsby
 
 ### Databases
 - Elasticsearch
@@ -24,7 +26,7 @@
 - Node.js
 - Express.js
 - Firebase
-- Web Scraping with Puppeteer
+- Web Scraping (with Puppeteer)
 - GraphQL
 
 ### Design
@@ -41,6 +43,8 @@
 ### Headless CMS
 - Story Book?
 - GraphCMS?
+- Netlify CMS
+- Contentful
 
 ### Testing
 - TO DO
@@ -54,7 +58,7 @@
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
-- JS libraries (React, jQuery)
+- jQuery
 - Supporting web browsers older than IE11
 - Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
@@ -66,3 +70,6 @@
 - JavaScript
 
 ## Aimed skill set
+
+## Projects
+
