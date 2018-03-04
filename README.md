@@ -41,7 +41,7 @@
 - Git & GitHub
 
 ### Headless CMS
-- Story Book?
+- Storyblok
 - GraphCMS?
 - Netlify CMS
 - Contentful
