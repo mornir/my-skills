@@ -8,10 +8,8 @@
 
 ### JavaScript
 - ES.Next
-- Vue
-- Nuxt
-- React
-- Gatsby
+- Vue, Vuex
+- Nuxt?
 
 ### Databases
 - Elasticsearch
@@ -41,10 +39,10 @@
 - Git & GitHub
 
 ### Headless CMS
-- Storyblok
+- Storyblok?
 - GraphCMS?
-- Netlify CMS
-- Contentful
+- Netlify CMS?
+- Contentful?
 
 ### Testing
 - TO DO
@@ -58,12 +56,13 @@
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
-- jQuery
+- Other JS libraires (React, jQuery)
 - Supporting web browsers older than IE11
 - Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
 - TypeScript, Flow, etc.
 - Tempating languages (pug, blade, handlebars, etc.)
+- Static Website Generator other than Nuxt (Next, Gatsby, Jekyll, etc.)
 
 
 ## Current skill set
