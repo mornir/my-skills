@@ -1,6 +1,6 @@
 # My path for becoming a frontend web developer
 
-## Topics I am interested in
+## What I know
 
 ### HTML/CSS
 - CSS Layout (CSS Grid / Flexbox)
@@ -9,12 +9,11 @@
 ### JavaScript
 - ES.Next
 - Vue, Vuex
-- Nuxt?
+- Nuxt
 
 ### Databases
 - Elasticsearch
 - MongoDB
-- SQLite
 
 ### Progressive web apps
 - Service Workers
@@ -25,7 +24,6 @@
 - Express.js
 - Firebase
 - Web Scraping (with Puppeteer)
-- GraphQL
 
 ### Design
 - Figma
@@ -39,17 +37,14 @@
 - Git & GitHub
 
 ### Headless CMS
-- Storyblok?
-- GraphCMS?
-- Netlify CMS?
-- Contentful?
+learning
 
 ### Testing
 - TO DO
 
 ### Other
 - Markdowns
-- Security
+- Security (learning)
 
 ## Topics I am not interested in or don't have time to learn
 - Server-side languages (PHP, Ruby, Python, etc.)
@@ -65,9 +60,15 @@
 - Static Website Generator other than Nuxt (Next, Gatsby, Jekyll, etc.)
 
 
-## Current skill set
+## What I want to learn
+- SQLite
+- Storyblok
+- GraphCMS
+- Netlify CMS
+- Contentful
 
-## Aimed skill set
+## What I am following closely
+- GraphQL
 
 ## Projects
 
