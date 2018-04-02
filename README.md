@@ -24,6 +24,7 @@
 - Express.js
 - Firebase
 - Web Scraping (with Puppeteer)
+- Laravel
 
 ### Design
 - Figma
@@ -47,7 +48,7 @@ learning
 - Security (learning)
 
 ## Topics I am not interested in or don't have time to learn
-- Server-side languages (PHP, Ruby, Python, etc.)
+- Server-side languages other than PHP (Golang, Ruby, Python, etc.)
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
