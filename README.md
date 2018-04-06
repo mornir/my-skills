@@ -24,7 +24,6 @@
 - Express.js
 - Firebase
 - Web Scraping (with Puppeteer)
-- Laravel
 
 ### Design
 - Figma
@@ -62,14 +61,17 @@ learning
 
 
 ## What I want to learn
-- SQLite
+- SQL
 - Storyblok
 - GraphCMS
 - Netlify CMS
 - Contentful
+- Bootstrap
+- Bulma
+- Tailwind.css
+- PHP / LARAVEL
 
-## What I am following closely
+## What I am following
 - GraphQL
-
-## Projects
+- Houdini
 
