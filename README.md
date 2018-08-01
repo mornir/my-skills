@@ -6,6 +6,11 @@
 - CSS Layout (CSS Grid / Flexbox)
 - CSS animations and transitions
 
+### CSS Frameworks
+- Vuetify
+- Bulma
+- Bootstrap
+
 ### JavaScript
 - ES.Next
 - Vue, Vuex
@@ -18,12 +23,14 @@
 ### Progressive web apps
 - Service Workers
 - Navigator APIs (geolocation, push notification, payment, etc.)
+- Push Notification
 
 ### Server
 - Node.js
 - Express.js
 - Firebase
 - Web Scraping (with Puppeteer)
+- Laravel (as an API server)
 
 ### Design
 - Figma
@@ -40,38 +47,32 @@
 learning
 
 ### Testing
-- TO DO
-
-### Other
-- Markdowns
-- Security (learning)
+- Cypress
 
 ## Topics I am not interested in or don't have time to learn
-- Server-side languages other than PHP (Golang, Ruby, Python, etc.)
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
 - Other JS libraires (React, jQuery)
 - Supporting web browsers older than IE11
-- Building games with HTML/CSS & JavaScript (using canvas)
 - Gulp, Grunt, Rollup, Parcel, etc.
 - TypeScript, Flow, etc.
 - Tempating languages (pug, blade, handlebars, etc.)
 - Static Website Generator other than Nuxt (Next, Gatsby, Jekyll, etc.)
 
+## What I am currently learning
+- Cypress
+- Laravel & mySQL
+- Tailwind.css
+- SASS
 
 ## What I want to learn
-- SQL
 - Storyblok
 - GraphCMS
 - Netlify CMS
 - Contentful
-- Bootstrap
-- Bulma
-- Tailwind.css
-- PHP / LARAVEL
+- vue test-utils
 
-## What I am following
+## What I am following closely
 - GraphQL
 - Houdini
-
