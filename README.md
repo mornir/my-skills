@@ -10,11 +10,16 @@
 - Vuetify
 - Bulma
 - Bootstrap
+- TailwindCSS :heart_eyes:
 
 ### JavaScript
 - ES.Next
 - Vue, Vuex
+- AngularJS
+
+### Static Site Generators
 - Nuxt
+- GatsbyJS (rudimentary)
 
 ### Databases
 - Elasticsearch
@@ -29,11 +34,12 @@
 - Node.js
 - Express.js
 - Firebase
+- Socket.io
 - Web Scraping (with Puppeteer)
-- Laravel (as an API server)
+- Laravel (rudimentary & only as an API server)
 
 ### Design
-- Figma
+- Figma (rudimentary)
 - SVG (create, edit and animate)
 
 ### Tooling
@@ -43,9 +49,6 @@
 - ESLint & Prettier
 - Git & GitHub
 
-### Headless CMS
-learning
-
 ### Testing
 - Cypress
 
@@ -53,24 +56,19 @@ learning
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
-- Other JS libraires (React, jQuery)
+- Other JS libraires (like jQuery)
 - Supporting web browsers older than IE11
 - Gulp, Grunt, Rollup, Parcel, etc.
 - TypeScript, Flow, etc.
 - Tempating languages (pug, blade, handlebars, etc.)
-- Static Website Generator other than Nuxt (Next, Gatsby, Jekyll, etc.)
+- Static Website Generator other than Nuxt & GatsbyJS (Next, Jekyll, Hugo etc.)
 
 ## What I am currently learning
 - Cypress
-- Laravel & mySQL
-- Tailwind.css
 - SASS
+- Headless CMS (sanity.io, graphCMS, Netlify CMS)
 
 ## What I want to learn
-- Storyblok
-- GraphCMS
-- Netlify CMS
-- Contentful
 - vue test-utils
 
 ## What I am following closely
