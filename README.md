@@ -1,10 +1,14 @@
 # My path for becoming a frontend web developer
 
+## What I am currently learning
+I now focus on practicing what I already know.
+
 ## What I know
 
 ### HTML/CSS
 - CSS Layout (CSS Grid / Flexbox)
 - CSS animations and transitions
+- Semantic HTML (I strive to using all available tags)
 
 ### CSS Frameworks
 - Vuetify
@@ -15,11 +19,12 @@
 ### JavaScript
 - ES.Next
 - Vue, Vuex
-- AngularJS
+- AngularJS (stopped using it)
+- React (basic, prefer using Vue)
 
 ### Static Site Generators
 - Nuxt
-- GatsbyJS (rudimentary)
+- GatsbyJS (basic, I wish it was based on Vue :weary:)
 
 ### Databases
 - Elasticsearch
@@ -36,11 +41,15 @@
 - Firebase
 - Socket.io
 - Web Scraping (with Puppeteer)
-- Laravel (rudimentary & only as an API server)
+- Laravel (basic & only as an API server)
 
 ### Design
-- Figma (rudimentary)
-- SVG (create, edit and animate)
+- Figma (basic)
+- SVG (create, edit and animate) (basic)
+
+### CMS
+- GraphCMS
+- Sanity.io
 
 ### Tooling
 - Webpack
@@ -50,27 +59,23 @@
 - Git & GitHub
 
 ### Testing
-- Cypress
+- Cypress (basic)
 
-## Topics I am not interested in or don't have time to learn
+## Topics I am not interested in OR don't have time to learn
 - Desktop apps (Electron, NW.sj)
 - Native mobile apps (vue-native, weex, cordova, ionic, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
 - Other JS libraires (like jQuery)
 - Supporting web browsers older than IE11
-- Gulp, Grunt, Rollup, Parcel, etc.
+- Other build tools (Gulp, Grunt, Rollup, Parcel, etc.)
 - TypeScript, Flow, etc.
 - Tempating languages (pug, blade, handlebars, etc.)
 - Static Website Generator other than Nuxt & GatsbyJS (Next, Jekyll, Hugo etc.)
-
-## What I am currently learning
-- Cypress
-- SASS
-- Headless CMS (sanity.io, graphCMS, Netlify CMS)
+- Design tools (Sketch, Figma, Adobe Illustrator, etc.)
 
 ## What I want to learn
-- vue test-utils
+- Testing Vue apps (unit, integration and E2E tests)
 
 ## What I am following closely
 - GraphQL
-- Houdini
+- CSS Houdini
