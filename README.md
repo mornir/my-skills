@@ -79,3 +79,17 @@ I now focus on practicing what I already know.
 ## What I am following closely
 - GraphQL
 - CSS Houdini
+
+
+## Copywork (twice a month)
+
+### 2018
+
+#### October
+www.maniette.fr [codepen] (redesign)
+
+www.vkg.ch [[codepen](https://codepen.io/mornir0/full/wYdwvo/)]
+
+
+#### November
+www.logrocket.com/pricing [[codepen](https://codepen.io/mornir0/full/xyMPYj/)]
