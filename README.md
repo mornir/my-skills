@@ -86,7 +86,7 @@ I now focus on practicing what I already know.
 ### 2018
 
 #### October
-www.maniette.fr [codepen] (redesign)
+www.maniette.fr [[codepen](https://codepen.io/mornir0/full/qJzoxN/)] (redesign)
 
 www.vkg.ch [[codepen](https://codepen.io/mornir0/full/wYdwvo/)]
 
