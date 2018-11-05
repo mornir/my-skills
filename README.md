@@ -1,7 +1,8 @@
 # My path for becoming a frontend web developer
 
 ## What I am currently learning
-I now focus on practicing what I already know.
+- Jest
+- Cypress
 
 ## What I know
 
@@ -59,7 +60,7 @@ I now focus on practicing what I already know.
 - Git & GitHub
 
 ### Testing
-- Cypress (basic)
+- Currently learning
 
 ## Topics I am not interested in OR don't have time to learn
 - Desktop apps (Electron, NW.sj)
@@ -74,11 +75,7 @@ I now focus on practicing what I already know.
 - Design tools (Sketch, Figma, Adobe Illustrator, etc.)
 
 ## What I want to learn
-- Testing Vue apps (unit, integration and E2E tests)
-
-## What I am following closely
-- GraphQL
-- CSS Houdini
+- Vue Gridsome
 
 
 ## Copywork (twice a month)
