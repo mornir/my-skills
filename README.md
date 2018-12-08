@@ -1,8 +1,8 @@
 # My path for becoming a frontend web developer
 
 ## What I am currently learning
-- Jest
-- Cypress
+- Cypress (for acceptance & integration tests)
+- Sanity.io (CMS)
 
 ## What I know
 
