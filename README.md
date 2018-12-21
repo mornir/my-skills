@@ -3,6 +3,7 @@
 ## What I am currently learning
 - Cypress (for acceptance & integration tests)
 - Sanity.io (CMS)
+- Storyblok (CMS)
 
 ## What I know
 
@@ -48,9 +49,10 @@
 - Figma (basic)
 - SVG (create, edit and animate) (basic)
 
-### CMS
+### Headless CMS
 - GraphCMS
 - Sanity.io
+- Storyblok
 
 ### Tooling
 - Webpack
@@ -60,7 +62,7 @@
 - Git & GitHub
 
 ### Testing
-- Currently learning
+- Cypress
 
 ## Topics I am not interested in OR don't have time to learn
 - Desktop apps (Electron, NW.sj)
