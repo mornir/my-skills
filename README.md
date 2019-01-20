@@ -11,12 +11,12 @@
 - CSS Layout (CSS Grid / Flexbox)
 - CSS animations and transitions
 - Semantic HTML (I strive to using all available tags)
+- TailwindCSS :heart_eyes:
 
 ### CSS Frameworks
 - Vuetify
 - Bulma
 - Bootstrap
-- TailwindCSS :heart_eyes:
 
 ### JavaScript
 - ES.Next
@@ -65,38 +65,15 @@
 - Cypress
 
 ## Topics I am not interested in OR don't have time to learn
-- Desktop apps (Electron, NW.sj)
-- Native mobile apps (vue-native, weex, cordova, ionic, etc.)
+- Desktop apps (Electron, NW.js)
+- Native mobile apps (vue-native, weex, cordova, ionic, kotlin, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
-- Other JS libraires (like jQuery)
+- jQuery
 - Supporting web browsers older than IE11
 - Other build tools (Gulp, Grunt, Rollup, Parcel, etc.)
-- TypeScript, Flow, etc.
 - Tempating languages (pug, blade, handlebars, etc.)
 - Static Website Generator other than Nuxt & GatsbyJS (Next, Jekyll, Hugo etc.)
-- Design tools (Sketch, Figma, Adobe Illustrator, etc.)
 
 ## What I want to learn
 - Vue Gridsome
-
-
-## Copywork (twice a month)
-
-### 2018
-
-#### September
-
-www.bsvonline.ch/fr/prescriptions [codepen] (redesign)
-
-[Leitfaden](https://res.cloudinary.com/infonuagique/image/upload/v1541435068/copywork/Leitfaden_f%C3%BCr_erfolgreiches_%C3%9Cbersetzenlassen_V2.pdf) [[codepen](https://codepen.io/mornir0/full/vVKzqW/)]
-
-#### October
-www.maniette.fr [[codepen](https://codepen.io/mornir0/full/qJzoxN/)] (redesign)
-
-www.vkg.ch [[codepen](https://codepen.io/mornir0/full/wYdwvo/)]
-
-
-#### November
-www.logrocket.com/pricing [[codepen](https://codepen.io/mornir0/full/xyMPYj/)]
-
-www.sanity.io/pricing [[codepen](https://codepen.io/mornir0/full/OaNVeQ/)]
+- TypeScript
