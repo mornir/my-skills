@@ -2,6 +2,7 @@
 
 ## What I am currently learning
 - Cypress (for acceptance & integration tests)
+- CircleCI (continous integration)
 - Sanity.io (CMS)
 - Storyblok (CMS)
 
@@ -22,11 +23,10 @@
 - ES.Next
 - Vue, Vuex
 - AngularJS (stopped using it)
-- React (basic, prefer using Vue)
+- React (basic)
 
 ### Static Site Generators
 - Nuxt
-- GatsbyJS (basic, I wish it was based on Vue :weary:)
 
 ### Databases
 - Elasticsearch
@@ -34,8 +34,8 @@
 
 ### Progressive web apps
 - Service Workers
-- Navigator APIs (geolocation, push notification, payment, etc.)
-- Push Notification
+- Navigator APIs (geolocation, push notification, web share, etc.)
+- Responsive Design
 
 ### Server
 - Node.js
@@ -61,8 +61,10 @@
 - ESLint & Prettier
 - Git & GitHub
 
-### Testing
+### Testing & Error Tracking
 - Cypress
+- CircleCI
+- LogRocket
 
 ## Topics I am not interested in OR don't have time to learn
 - Desktop apps (Electron, NW.js)
@@ -74,6 +76,7 @@
 - Tempating languages (pug, blade, handlebars, etc.)
 - Static Website Generator other than Nuxt & GatsbyJS (Next, Jekyll, Hugo etc.)
 
-## What I want to learn
+## What I want to learn in 2019
 - Vue Gridsome
 - TypeScript
+- SCSS
