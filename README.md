@@ -1,4 +1,4 @@
-# My path for becoming a frontend web developer
+# My path for becoming a front-end web developer
 
 ## What I am currently learning
 - Cypress (for acceptance & integration tests)
