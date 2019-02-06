@@ -13,6 +13,7 @@
 - CSS animations and transitions
 - Semantic HTML (I strive to using all available tags)
 - TailwindCSS :heart_eyes:
+- SCSS (prefer using Tailwind and unprocessed CSS)
 
 ### CSS Frameworks
 - Vuetify
@@ -20,13 +21,11 @@
 - Bootstrap
 
 ### JavaScript
-- ES.Next
-- Vue, Vuex
+- ECMAScript 2019
+- Canvas API, Web Speech API, Fetch API and much more
+- Vue, Vuex, Nuxt
 - AngularJS (stopped using it)
 - React (basic)
-
-### Static Site Generators
-- Nuxt
 
 ### Databases
 - Elasticsearch
@@ -43,7 +42,7 @@
 - Firebase
 - Socket.io
 - Web Scraping (with Puppeteer)
-- Laravel (basic & only as an API server)
+- Laravel/PHP (basic & only as an API server)
 
 ### Design
 - Figma (basic)
@@ -73,10 +72,9 @@
 - jQuery
 - Supporting web browsers older than IE11
 - Other build tools (Gulp, Grunt, Rollup, Parcel, etc.)
-- Tempating languages (pug, blade, handlebars, etc.)
-- Static Website Generator other than Nuxt & GatsbyJS (Next, Jekyll, Hugo etc.)
+- Templating languages (pug, blade, handlebars, etc.)
+- Static Website Generator other than Nuxt (GatsbyJS, Next, Jekyll, Hugo etc.)
 
 ## What I want to learn in 2019
-- Vue Gridsome
+- Vue Gridsome (GraphQL)
 - TypeScript
-- SCSS
