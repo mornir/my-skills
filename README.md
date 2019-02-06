@@ -22,7 +22,7 @@
 
 ### JavaScript
 - ECMAScript 2019
-- Canvas API, Web Speech API, Fetch API and much more
+- API: Canvas, Web Speech, Fetch, WebRTC and much more
 - Vue, Vuex, Nuxt
 - AngularJS (stopped using it)
 - React (basic)
@@ -73,7 +73,7 @@
 - Supporting web browsers older than IE11
 - Other build tools (Gulp, Grunt, Rollup, Parcel, etc.)
 - Templating languages (pug, blade, handlebars, etc.)
-- Static Website Generator other than Nuxt (GatsbyJS, Next, Jekyll, Hugo etc.)
+- Static Website Generator other than Nuxt (GatsbyJS, Next, Jekyll, Hugo, etc.)
 
 ## What I want to learn in 2019
 - Vue Gridsome (GraphQL)
