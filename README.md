@@ -1,4 +1,4 @@
-# My skills as a front-end web developer
+# My skills as a web developer
 
 ## My current stack
 - Nuxt
