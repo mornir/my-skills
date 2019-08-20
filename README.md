@@ -1,10 +1,10 @@
 # My path for becoming a front-end web developer
 
-## What I am currently learning
-- Cypress (for acceptance & integration tests)
-- CircleCI (continous integration)
-- Sanity.io (CMS)
-- Storyblok (CMS)
+## My current stack
+- Nuxt
+- Tailwind with CSS Grid
+- Sanity (CMS)
+- Cypress (testing)
 
 ## What I know
 
@@ -13,7 +13,7 @@
 - CSS animations and transitions
 - Semantic HTML (I strive to using all available tags)
 - TailwindCSS :heart_eyes:
-- SCSS (prefer using Tailwind and unprocessed CSS)
+- SCSS (prefer using Tailwind along with postcss)
 
 ### CSS Frameworks
 - Vuetify
@@ -34,9 +34,8 @@
 ### Progressive web apps
 - Service Workers
 - Navigator APIs (geolocation, push notification, web share, etc.)
-- Responsive Design
 
-### Server
+### Backend
 - Node.js
 - Express.js
 - Firebase
@@ -46,12 +45,13 @@
 
 ### Design
 - Figma (basic)
+- Adobe XD (basic)
 - SVG (create, edit and animate) (basic)
 
 ### Headless CMS
 - GraphCMS
-- Sanity.io
-- Storyblok
+- Sanity
+- Wordpress
 
 ### Tooling
 - Webpack
@@ -75,6 +75,7 @@
 - Templating languages (pug, blade, handlebars, etc.)
 - Static Website Generator other than Nuxt (GatsbyJS, Next, Jekyll, Hugo, etc.)
 
-## What I want to learn in 2019
+## What I am interested in learning
 - Vue Gridsome (GraphQL)
-- TypeScript
+- Nuxtpress
+- Extending Sanity with custom React components
