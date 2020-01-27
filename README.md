@@ -1,5 +1,11 @@
 # My skills as a web developer
 
+## Currently learning
+- Eleventy
+- Netlify CMS
+- [Snowpack](https://www.snowpack.dev/)
+- Alpine.js
+
 ## My current stack
 - Nuxt
 - Tailwind with CSS Grid
@@ -11,11 +17,11 @@
 ### HTML/CSS
 - CSS Layout (CSS Grid / Flexbox)
 - CSS animations and transitions
-- Semantic HTML (I strive to using all available tags)
-- TailwindCSS :heart_eyes:
-- SCSS (prefer using Tailwind along with postcss)
+- Semantic HTML
+- Sass
 
 ### CSS Frameworks
+- Tailwind
 - Vuetify
 - Bulma
 - Bootstrap
@@ -24,12 +30,12 @@
 - ECMAScript 2019
 - API: Canvas, Web Speech, Fetch, WebRTC and much more
 - Vue, Vuex, Nuxt
-- AngularJS (stopped using it)
 - React (basic)
 
 ### Databases
 - Elasticsearch
 - MongoDB
+- GraphQL
 
 ### Progressive web apps
 - Service Workers
@@ -59,6 +65,7 @@
 - Visual Studio Code
 - ESLint & Prettier
 - Git & GitHub
+- GitHub Actions
 
 ### Testing & Error Tracking
 - Cypress
@@ -71,11 +78,4 @@
 - Other JS frameworks (Aurelia, Angular, etc.)
 - jQuery
 - Supporting web browsers older than IE11
-- Other build tools (Gulp, Grunt, Rollup, Parcel, etc.)
-- Templating languages (pug, blade, handlebars, etc.)
-- Static Website Generator other than Nuxt (GatsbyJS, Next, Jekyll, Hugo, etc.)
-
-## What I am interested in learning
-- Vue Gridsome (GraphQL)
-- Nuxtpress
-- Extending Sanity with custom React components
+- Static Website Generator other than Nuxt and Eleventy (GatsbyJS, Next, Jekyll, Hugo, etc.)
