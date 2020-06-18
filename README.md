@@ -1,10 +1,8 @@
 # My skills as a web developer
 
 ## Currently learning
-- Eleventy
-- Netlify CMS
-- [Snowpack](https://www.snowpack.dev/)
-- Alpine.js
+- State Machines with XState
+- Google Cloud Functions
 
 ## My current stack
 - Nuxt
@@ -31,6 +29,7 @@
 - API: Canvas, Web Speech, Fetch, WebRTC and much more
 - Vue, Vuex, Nuxt
 - React (basic)
+- Eleventy
 
 ### Databases
 - Elasticsearch
@@ -55,9 +54,11 @@
 - SVG (create, edit and animate) (basic)
 
 ### Headless CMS
-- GraphCMS
 - Sanity
+- GraphCMS
 - Wordpress
+- Netlify CMS
+- Craft CMS
 
 ### Tooling
 - Webpack
@@ -77,5 +78,5 @@
 - Native mobile apps (vue-native, weex, cordova, ionic, kotlin, etc.)
 - Other JS frameworks (Aurelia, Angular, etc.)
 - jQuery
-- Supporting web browsers older than IE11
+- Supporting Internet Explorer
 - Static Website Generator other than Nuxt and Eleventy (GatsbyJS, Next, Jekyll, Hugo, etc.)
