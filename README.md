@@ -1,15 +1,5 @@
 # My skills as a web developer
 
-## Currently learning
-- State Machines with XState
-- Google Cloud Functions
-
-## My current stack
-- Nuxt
-- Tailwind with CSS Grid
-- Sanity (CMS)
-- Cypress (testing)
-
 ## What I know
 
 ### HTML/CSS
