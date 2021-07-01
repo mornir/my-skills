@@ -69,4 +69,4 @@
 - Other JS frameworks (Aurelia, Angular, etc.)
 - jQuery
 - Supporting Internet Explorer
-- Static Website Generator other than Nuxt and Eleventy (GatsbyJS, Next, Jekyll, Hugo, etc.)
+- Static Website Generator other than Nuxt, Eleventy and Next (GatsbyJS, Jekyll, Hugo, etc.)
