@@ -66,7 +66,7 @@
 ## Topics I am not interested in OR don't have time to learn
 - Desktop apps (Electron, NW.js)
 - Native mobile apps (vue-native, weex, cordova, ionic, kotlin, etc.)
-- Other JS frameworks (Aurelia, Angular, etc.)
+- Other JS frameworks than Vue and React (Aurelia, Angular, etc.)
 - jQuery
 - Supporting Internet Explorer
-- Static Website Generator not based on JavaScript (Jekyll, Hugo, etc.)
+- Static Website Generator not based on JS (Jekyll, Hugo, etc.)
